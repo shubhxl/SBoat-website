@@ -1,0 +1,101 @@
+.fbody{
+    background-color: #124f8d;
+    font-family: arial, sans-serif;
+    color: white;
+    overflow-x: hidden;
+}
+
+.newsletter .btn {
+    background: #23a5de;
+    color: white;
+}
+
+label {
+    padding-top: 10%;
+    display: inline-block;
+    margin-bottom: .5rem;
+    font-size: 16px;
+}
+
+.footer-2 .col-md-4 {
+    padding: 50px;
+}
+
+.social-m p {
+    text-align: right;
+    width: 100%;
+    margin-top: 16px;
+}
+
+.social-m {
+    font-size: 14px;
+    /* margin-right: -70%; */
+    /* margin-left: -15px; */
+}
+
+.location{
+    /* margin-right: -50%; */
+    font-family: "Nunito Sans", arial, sans-serif;
+    font-weight: 500;
+}
+
+.tca {
+    text-align: center!important;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.reach{
+    /* margin-right: -7%; */
+}
+
+.footer-1 {
+    font-size: 14px;
+    margin-left: -15px;
+    margin-right: -14px;
+}
+
+.text-white, .delink {
+    color: #fff!important;
+    font-weight: normal;
+}
+
+.f{
+    border: none;
+    margin-right: 15%;
+    font-size: 14px;
+}
+
+.delink{
+    padding-right: 2%;
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+}
+
+.icon{
+    width: 20px;
+    height: 30px;
+}
+
+.formt{
+    margin-left: 6%;
+}
+
+.sbtn {
+    background: #23a5de;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 8%;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 6px;
+}
+
+.ee{
+    margin-right: 17px;
+}
+
+.fh{
+    font-size: 14px;
+}

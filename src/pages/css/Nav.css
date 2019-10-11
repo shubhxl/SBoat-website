@@ -1,0 +1,45 @@
+img.logo{
+    width: auto;
+    height: auto;
+}
+.navbar {
+    box-shadow: rgba(63, 33, 33, 0.5) 2px 2px 30px;
+    z-index: 5;
+}
+.nav-menu {
+    float: right;
+    padding: 0px;
+}
+
+.navbar-nav {
+    display: flex;
+    list-style: none;
+}
+
+.nav-link {
+    cursor: pointer;
+    color: #124f8d!important;
+}
+
+.btn {
+    background: #124f8d;
+    color: white;
+    font-weight: 600;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    border-radius: 10px;
+}
+
+.navm{
+    overflow-x: hidden;
+}
+
+.iconn{
+    width: 15px;
+    height: 27px;
+    margin-left: -21px;
+    position: fixed;
+}
+
+
+

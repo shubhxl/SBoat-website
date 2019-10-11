@@ -1,0 +1,45 @@
+.cardh{
+    color: #124f8d;
+    padding: 5%;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+b{
+    padding: 5%;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.ans{
+    margin-left: 5%;
+    margin-right: 17%;
+    text-align: left!important;
+}
+
+.ansc{
+    margin-left: 5%;
+    text-align: left!important;
+}
+
+
+.cardm{
+    padding: 3% 0%;
+    margin-right: 7%!important;
+    margin-left: 7%!important;
+}
+
+
+.cardmc{
+    border-radius: 25px!important;
+    border: 1px solid rgba(0,0,0,.125); 
+    padding-top: 2%;
+    padding-bottom: 8%;
+    min-height: 270px
+}
+
+.small{
+    margin-top: 14px;
+    margin-left: -13%;
+}

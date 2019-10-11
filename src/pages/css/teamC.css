@@ -1,0 +1,43 @@
+.thc{
+    font-weight:800;
+    font-size: 36px;
+    font-family: 'Poppins', arial, sans-serif;
+}
+
+.datac {
+    background: white;
+    padding: 20px 10px;
+    border-radius: 10px;
+    transition: box-shadow 1s ease-out;
+    margin-bottom: 40px;
+    box-shadow: rgba(0, 0, 0, 0.125) 1px 1px 10px 0px;
+    min-height: 195px;
+}
+
+.rc{
+    margin: 0px -5% 0px -5%;
+}
+
+.cardc{
+    font-size: 14px;
+    border: none!important;
+    min-height: 60px!important;
+    margin-bottom: 0%;
+}
+
+.text-centerc{
+        font-weight: 800;
+        font-size: 11px;
+        letter-spacing: 2px;
+        font-family: 'Poppins', arial, sans-serif;
+        margin-bottom: 16px;
+        text-align: center;
+        padding-top: 5%;
+     
+}
+
+.datac:hover {
+        box-shadow: #2c3a85 2px 2px 50px;
+}
+
+

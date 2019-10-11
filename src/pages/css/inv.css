@@ -1,0 +1,4 @@
+.inv {
+    display: flex;
+    flex-direction: row;
+}

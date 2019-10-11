@@ -1,0 +1,48 @@
+.thp{
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 0%;
+}
+.thp1{
+    color: black;
+    font-size: 14px;
+    text-align: center;
+}
+
+.th1{
+    color: #124f8d;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+.thm{
+    font-weight: bold;
+    color: #124f8d;
+    font-size: inherit;
+    text-align: center;
+}
+
+.tb{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ppk{
+    font-size: 18px;
+}
+
+.tc{
+    border-bottom: 2px solid #dee2e6;
+}
+
+.mainc{
+    padding-right: 0%;
+    padding-left: 3%;
+}
+
+.mainhai{
+    border-right:  #124f8d 1px solid;
+}
+

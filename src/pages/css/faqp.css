@@ -1,0 +1,62 @@
+ .togglep{
+    background:none;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    margin-left: 7%;
+    border: none;
+    outline: none;
+    transition: 0.2s; 
+ }
+
+.togglep:focus { 
+    outline-style: none; 
+}
+
+.plus{
+font-weight: 900;
+font-size: 27px;
+}
+
+.acc{
+    background-color: #fafafa;
+}
+
+.acchead{
+    border-bottom: 1px #ddd solid;
+    cursor: pointer;
+    color: #23a5de;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 12px;
+    margin-bottom: 2px;
+}
+
+.llpp{
+    padding-left: 10%;
+    padding-top: 1%;
+    font-size: 14px;
+    
+}
+
+i {
+    border: solid #23a5de;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 10px;
+  }
+  
+.ii{
+  font-size: 20px;
+  background: none;
+  border:1px #124f8d solid; 
+  margin-left: -100%;
+}
+
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }  
+
+

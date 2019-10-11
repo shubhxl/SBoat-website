@@ -1,0 +1,51 @@
+.accheadc{
+    color: #124f8d;
+    font-weight: 600;
+    font-size: 16px;
+    border-bottom: 1px #ddd solid;
+    background: none;
+    cursor: pointer;
+    padding: 12px;
+    margin-bottom: 2px;
+}
+
+ .welf1{
+    border-bottom: 1px #ddd solid;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 16px;
+ }
+
+.togglec{
+    background: none;
+    border: none;
+    padding:7px!important;
+    outline: none;
+    margin-bottom: 2%;
+}
+
+.togglec:focus { 
+    outline-style: none; 
+}
+
+.welfc{
+ background: #fafafa;
+ padding: 7% 7%; 
+}
+
+.whead{
+    padding-bottom: 20px;
+}
+
+.sleft{
+    margin-left: 14%;
+    text-align: left;
+    list-style: none;
+    font-size: 14px;
+}
+
+.ll{
+    font-size: 14px;
+    padding-left: 3%;
+    margin-right: -10%;
+}

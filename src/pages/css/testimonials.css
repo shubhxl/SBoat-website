@@ -1,0 +1,35 @@
+.tw{
+   text-align: center;
+   font-size: 16px;
+   width: 100%;
+} 
+
+.te{
+  font-size: 18px;
+}
+
+.ka{
+  margin-left: 0px;
+  margin-right: 0px;  
+}
+
+.italy{
+  color: black;
+  border: none;
+  padding-bottom: 4%;
+
+}
+
+.im{
+  width: 100px;
+  margin: 0 auto;
+}
+
+i:hover{
+  text-decoration: underline;
+}
+
+.tmain{
+  overflow-x: hidden;
+  overflow-y: hidden;
+}

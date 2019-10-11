@@ -1,0 +1,36 @@
+.carousel-item img {
+    width: 100%;
+    height: inherit;
+}
+
+.cc{
+    margin: 0 0;
+    padding-bottom: 0%;
+    overflow-x: hidden;
+}
+
+.transbox {
+    position: absolute;
+    left: 0px;
+    z-index: 1000;
+    width: 100%;
+    height: 30%;
+    background: rgba(255, 255, 255, 0.658);
+    width: 50%;
+    padding-top: 30px;
+    bottom: 30%;
+} 
+  
+
+ h1{
+    color: #23a5de;
+    text-align: center;
+    font-size: 46px;
+    font-weight: bold;
+}
+
+
+.carousel-fade, .carousel-item.active {
+    z-index: 1;
+    opacity: 1;
+} 

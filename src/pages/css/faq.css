@@ -1,0 +1,33 @@
+ .togglem{
+    background:none;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    margin-left: 0%;
+    border: none;
+    outline: none;
+    transition: 0.2s; 
+}
+
+.togglem:focus { 
+    outline-style: none; 
+}
+
+.plus{
+    font-weight: 900;
+    font-size: 27px;
+}
+
+.ll{
+    padding-left: 5%!important;
+ } 
+
+.lli{
+    margin-right: 10%;
+}
+
+.fmain{
+    margin-left: 70px;
+}
+ 

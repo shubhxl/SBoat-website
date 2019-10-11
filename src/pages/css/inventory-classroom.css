@@ -1,0 +1,149 @@
+.inventory-board {
+    width: 100%;
+    padding: 15px;
+    min-height: 350px;
+    display: block;
+    float: left;
+    height: 100%;
+}
+
+img {
+    border-style: none;
+    width: 100%;
+    display: block;
+}
+
+ .col-lg-3 {
+    
+    padding-left: 8px;
+    padding-right: 8px;  
+  
+}
+
+.inventory-board .content {
+    padding-top: 15px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.inventory-board .content h3 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.inventory-board .content span {
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.inventory-title {
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-size: 21px;
+    font-weight: bolder;
+    text-transform: capitalize;
+    margin: 0px !important;
+    padding: 10px 5px 0px 5px;
+    color: #23a5de;
+}
+
+.inventory-sub {
+    position: relative;
+    background: white;
+    border-radius: 10px;
+    box-shadow: rgba(1, 1, 1, 0.5) 2px 2px 5px;
+    margin-bottom: 100px;
+}
+
+.arrow-prev{
+    display: block;
+    position: absolute;
+    bottom: 17px;
+    z-index: 2;
+    left: 51px;
+    cursor: pointer;
+    background-image: url(../images/arrl.png);
+    height: 14px;
+    width: 14px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.arrow-next {
+    position: absolute;
+    bottom: 17px;
+    z-index: 2;
+    right: 45px;
+    cursor: pointer;
+    background-image: url(../images/arrr.png);
+    height: 14px;
+    width: 14px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.slick-dots {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+    margin-bottom: 39px;
+}
+
+.slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer;
+}
+
+.slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    cursor: pointer;
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+
+.inv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left:5%!important;
+    margin-right:5%!important;
+    overflow-x: hidden!important;
+}
+
+
+.flex-container {
+    background: linear-gradient(white 70%, #124f8d 30%);
+    padding-top: 5%;
+    padding-bottom: 8%;
+}
+
+.cph{
+    font-size: 18px;
+    padding-bottom: 3%;
+}
+
+.kaka{
+    height: 200px;
+}
+
+.i-card{
+    width: 100%;
+}
+
+.imain{
+    overflow-x: hidden!important;
+}

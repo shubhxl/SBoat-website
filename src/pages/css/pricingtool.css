@@ -1,0 +1,217 @@
+.itype {
+    text-align: center;
+    width: 100%!important;
+    display: flex!important;
+}
+
+.intype{
+    background: inherit;
+    color: #23a5de;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #23a5de;
+}
+
+.itype .active, .itype Badge:hover {
+    background: #23a5de;
+    color: white;
+}
+
+.pricing-tool{
+    margin-top: 4%;
+    width: 100%!important;
+    padding: 0;
+}
+
+img {
+    border-style: none;
+    display: inline-block;
+}
+
+.inventory-board {
+    width: 100%;
+    padding: 15px;
+    min-height: 350px;
+    display: block;
+    float: left;
+    height: 100%;
+}
+
+.kaka{
+    height: 200px;
+    padding-left: 8%;
+}
+
+.i-card{
+    width: 100%;
+}
+
+.pinvt{
+    background: #23a5de;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.pricingTool .btn-area {
+    text-align: left;
+}
+
+.options-row {
+    width: 100%;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+}
+
+.capacity-label-container {
+    display: inherit;
+}
+
+.pricingTool label[for="capacityRange"] {
+    font-size: 12px;
+    line-height: 1.2;
+    text-align: left;
+    margin: 0;
+}
+
+.capacityLabel {
+    color: #124f8d;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.capacity-buttons-container, .capacity-label-container, .getQuoteBtnCol {
+    display: inherit;
+}
+
+.capacity-buttons {
+    width: fit-content;
+}
+
+.btn-capacity {
+    background: white;
+    color: #23a5de;
+    border: 1px solid #23a5de;
+    padding: 4px 6px;
+    font-size: 12px;
+}
+
+.btn-capacity:focus, .btn-capacity:active, .btn-capacity:hover, .btn-capacity.active {
+    background:  #23a5de!important;
+    color: white;
+}
+
+.getQuoteBtnCol .btn {
+    font-size: 12px;
+    padding: 4px 6px;
+    background: #23a5de;
+    border-color:#23a5de;
+}
+
+.mainhaip{
+    margin-right: -10%;
+}
+
+.quotes .top {
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+    background:#124f8d; 
+    padding: 3px 0;
+    font-size: 10px;
+}
+
+.quote.start, .quote.end {
+    background: #c8e8f7;
+}
+
+.quote {
+    line-height: inherit;
+    padding: 0px;
+
+}
+
+.quote .card-body {
+    padding: 5px;
+}
+
+.text-center {
+    text-align: center!important;
+}
+
+.quote .card-body .card-title, .quote .card-body .hrspermonth {
+    font-size: 10px;
+    margin-bottom: 5px;
+}
+
+.quote .card-title {
+    color: #124f8d;
+    font-weight: 700;
+}
+
+.quote .card-body .card-title, .quote .card-body .hrspermonth {
+    font-size: 10px;
+    margin-bottom: 5px;
+}
+
+p {
+    margin-top: 0;
+}
+
+.quote .card-body .qprice {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.quote .qprice {
+    color: var(--primary-color-1);
+    font-weight: 700;
+}
+
+.quote .priceperhour {
+    font-size: 10px;
+    margin-bottom: 0;
+    color: black;
+}
+
+.hrspermonth {
+    color: black;
+    margin-top: 15px;
+}
+
+
+.card-title{
+    padding: 10px 0;
+    max-height: 30px!important;
+}
+
+.options-row{
+    padding: 0%;
+    margin: 0%;
+}
+
+.ml-auto, .mx-auto {
+    margin-left: auto!important;
+}
+
+.mr-auto, .mx-auto {
+    margin-right: auto!important;
+}
+
+.qprice {
+    padding: 0%;
+}
+
+.card{
+    border-radius: 0px!important;
+}
+
+
+.m-btn{
+    margin-top: 4%;
+}

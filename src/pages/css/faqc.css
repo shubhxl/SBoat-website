@@ -1,0 +1,69 @@
+.togglef{
+    background:none;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.2s; 
+    margin-bottom: 0%;
+}
+
+.togglef:focus { 
+    outline-style: none; 
+}
+
+.plusc{
+font-weight: 900;
+color: #23a5de;
+font-size: 27px;
+}
+
+
+.accheadf{
+    border-bottom: 1px #ddd solid;
+    cursor: pointer;
+    color: #23a5de!important;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 12px;
+    margin-bottom: 2px;
+}
+
+.llf{
+    margin-top: 10px;
+    padding-left: 50px;
+    font-size: 14px;
+}
+
+i {
+    border: solid #23a5de;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 10px;
+  }
+  
+.ii{
+  font-size: 20px;
+  background: none;
+  border:1px #124f8d solid; 
+  margin-left: -100%;
+}
+
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }  
+
+.faqc1{
+    padding: 1% 15%;
+    margin: 0%!important;
+}
+
+.cacc{
+    background: #fafafa;
+    padding-bottom: 5%;
+}
+
+

@@ -1,0 +1,36 @@
+.togglepr{
+    background:none;
+    cursor: pointer;
+    padding-top: 0%;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+}
+
+.togglepr:focus { 
+    outline-style: none; 
+}
+
+.plus{
+font-weight: 900;
+font-size: 27px;
+}
+
+.acchead{
+    border-bottom: 1px #ddd solid;
+    cursor: pointer;
+    color: #23a5de;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.llpr{
+    padding-left: 50px;
+    font-size: 14px;
+    text-align: left!important;
+    padding-top: 10px!important;
+}
+
+
+
