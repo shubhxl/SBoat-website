@@ -1,6 +1,8 @@
-You can run this project:
+To run this project:
 
-### `npm start`
+1. Download 
+2. Open command line in the same folder and type following command(Make sure you have Node.js installed in your computer)
+ `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
