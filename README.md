@@ -2,6 +2,7 @@ To run this project:
 
 1. Download 
 2. Open command line in the same folder and type following command(Make sure you have Node.js installed in your computer)
+
  `npm start`
 
 Runs the app in the development mode.<br>
