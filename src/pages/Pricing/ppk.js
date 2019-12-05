@@ -39,7 +39,7 @@ function Price() {
              </tr>
 
              <tr>
-                 <th scope="row" className="th1">Payment Terms</th>
+                 <th scope="row" className="th1">Payment Term</th>
                  <td className="thp1">1 month’s fee, in advance</td>
                  <td className="thp1">Total amount, in advance</td>
              </tr>
