@@ -5,6 +5,7 @@ import Navbar from 'react-bootstrap/Navbar'
 import w from './icons/w.svg'
 
 
+
 function Navs() {
 return (
     <Navbar bg="light" sticky="top">
@@ -30,6 +31,8 @@ return (
              <a className="nav-link" href="/pricing/">Pricing Plans</a></li>
            <li className="nav-item">
              <a className="nav-link" href="/partner/">SpaceProviders</a></li>
+           <li className="nav-item">
+             <a className="nav-link" href="/activity/">Activity Rooms</a></li>
            <li className="nav-item">
             <a className="btn" href="http://bit.ly/SBFeeQuote">Request Quote</a></li>
          </ul>

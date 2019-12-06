@@ -25,6 +25,7 @@ import FAQP from './pages/Partner/faqp'
 import Price from './pages/Pricing/ppk'
 import FAQN from './pages/Home/faqn'
 import NavPr from './pages/Pricing/navpr'
+import CarouselA from './pages/Activity/carousela'
 
 function App() {
   return ( 
@@ -87,6 +88,17 @@ function App() {
               <div> 
               <NavPr />
               <Price />
+              <Footer />
+              </div>
+              ) }
+        }/>
+
+      <Route path="/activity" exact render={
+          () => {
+            return ( 
+              <div> 
+              <NavPr />
+              <CarouselA/>
               <Footer />
               </div>
               ) }
