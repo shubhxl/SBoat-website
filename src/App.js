@@ -93,17 +93,6 @@ function App() {
               ) }
         }/>
 
-      <Route path="/activity" exact render={
-          () => {
-            return ( 
-              <div> 
-              <NavPr />
-              <CarouselA/>
-              <Footer />
-              </div>
-              ) }
-        }/>
-
     </div>
     </Router>
   );
