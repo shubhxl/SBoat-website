@@ -1,8 +1,8 @@
 import React from 'react'
-import './css/Carousel.css'
-import Safarikid from './images/Safarikid.jpg'
-import ivs from './images/ivs.jpg'
-import inlingua from './images/inlingua.jpg'
+import '../css/Carousel.css'
+import Safarikid from '../images/Safarikid.jpg'
+import ivs from '../images/ivs.jpg'
+import inlingua from '../images/inlingua.jpg'
 import Carousel from 'react-bootstrap/Carousel'
 
 
