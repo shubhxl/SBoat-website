@@ -25,7 +25,6 @@ import FAQP from './pages/Partner/faqp'
 import Price from './pages/Pricing/ppk'
 import FAQN from './pages/Home/faqn'
 import NavPr from './pages/Pricing/navpr'
-import CarouselA from './pages/Activity/carousela'
 
 function App() {
   return ( 
